@@ -1,4 +1,4 @@
-# Bliss - Free Bootstrap Business Website Template
+# Nova – Free Bootstrap 5 Business & Corporate Website Template
 #### Preview
 
  - [Demo](https://themewagon.github.io/Nova-Bootstrap5_beta1/)
